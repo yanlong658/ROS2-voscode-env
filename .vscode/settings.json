@@ -1,0 +1,10 @@
+{
+    // "cmake.configureSettings": {
+    //     "CMAKE_BUILD_PATH": "${workspaceFolder}/../build/",
+    //     "CMAKE_INTALL_PATH": "${workspaceFolder}/../install/",
+    // },
+    "cmake.sourceDirectory": "${workspaceFolder}/../src/gdb",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

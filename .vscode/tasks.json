@@ -13,7 +13,7 @@
 				"--packages-select",
 				"${input:package}",
 				"--build-base",
-				"${workspaceFolder}/../buid",
+				"${workspaceFolder}/../build",
 				"--install-base",
 				"${workspaceFolder}/../install",
 				"--cmake-args",
